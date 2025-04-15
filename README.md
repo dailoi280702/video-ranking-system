@@ -43,5 +43,5 @@ Detailed deployment instructions are available in the [Deployment Guide](Deploym
 
 ## **Detailed Implementations**
 
-* [General service](github.com/dailoi280702/vrs-general-service)
-* [Video ranking service](github.com/dailoi280702/vrs-ranking-service)
+* [General service](https://github.com/dailoi280702/vrs-general-service)
+* [Video ranking service](https://github.com/dailoi280702/vrs-ranking-service)
